@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common off-by-one error. The script attempts to iterate through an array, but due to an incorrect loop condition, it accesses an index that is out of bounds.  The solution demonstrates the correct approach for iterating through the array.
